@@ -1,0 +1,57 @@
+--------------------------------------
+Start parameter for this run:
+-----------------------------------------
+   ISTART = 0
+   ICHARG = 2
+
+------------------------------------------
+Electronic Relaxation:
+------------------------------------------
+   LREAL  = F #Auto
+#  PREC   = A #Medium            precision:Medium/High/Low
+   ENCUT = 400
+   EDIFF  = 1e-5            converge criterion: default=1e-4
+   EDIFFG = -0.01
+#  MAXMIX = 50
+#  ALGO  = F
+   NELM = 100
+   NELMIN = 5                 the minimum number of electronic SC steps
+   IBRION = 2  
+   NSW    = 200 
+   ISIF   = 3
+#  ISYM   = 2                 symmetry (2-PAW on, 1-US-PP's on, 0-off)
+   GGA    = PE                Perdew-Wang 91
+#  IALGO = 48
+!  LORBIT = 11
+   ISPIN = 2
+#  MAGMOM = 2*0 4*0 2*4
+#   NPAR = 2
+SYMPREC=1e-4
+AMIN=0.01
+--------------------------------------------
+Output Control:
+--------------------------------------------
+   LWAVE  = .F.
+   LCHARG = .F.
+!  LVTOT  = .TRUE.
+#  NWRITE = 2
+--------------------------------------------
+DOS Related:
+--------------------------------------------
+#   LDAU = .TRUE.   £¡Switches on the L(S)DA+
+#   LDAUTYPE = 2    £¡1|2|4 Type of L(S)DA+U (Default: LDAUTYPE = 2) 
+#   LDAUL = -1  2   -1
+#   LDAUU =  0  3.3  0
+#   LDAUJ =  0  0    0
+   ISMEAR = 0
+   SIGMA = 0.02
+!  EMIN = -10
+!  EMAX = 6
+!  NEDOS = 3001
+--------------------------------------------
+VDW Related:
+--------------------------------------------
+LVDW=.TRUE.
+#IVDW=12
+#LUSE_VDW = .TRUE.
+#AGGAC = 0.0000

@@ -1,0 +1,51 @@
+data_generated_by_bilbao_crystallographic_server
+
+_cell_length_a                   7.446952 
+_cell_length_b                   7.446952 
+_cell_length_c                   14.400000 
+_cell_angle_alpha                90.000000 
+_cell_angle_beta                 90.000000 
+_cell_angle_gamma                120.000000        
+_symmetry_space_group_name_H-M   'P312' 
+_symmetry_Int_Tables_number      149 
+
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1    'x,y,z'
+2    '-y,x-y,z'
+3    '-x+y,-x,z'
+4    '-y,-x,-z'
+5    '-x+y,y,-z'
+6    'x,x-y,-z'
+
+loop_
+_atom_site_label 
+_atom_site_type_symbol 
+_atom_site_symmetry_multiplicity 
+_atom_site_Wyckoff_symbol 
+_atom_site_fract_x 
+_atom_site_fract_y 
+_atom_site_fract_z 
+Li1  Li ? ?  0.00000  0.33333  0.13194
+Li1002 Li ? ?  0.33333  0.33333  0.36806
+C1    C ? ?  0.11112  0.22222  0.75000
+C1002  C ? ?  0.77778  0.55556  0.75000
+C1003  C ? ?  0.44445  0.88889  0.75000
+C2    C ? ?  0.33334  0.33333  0.75000
+C2002  C ? ?  0.00000  0.33333  0.75000
+C3    C ? ?  0.77778  0.22222  0.00000
+C3002  C ? ?  0.44444  0.22222  0.50000
+C3003  C ? ?  0.44444  0.55556  0.00000
+C3004  C ? ?  0.11111  0.88889  0.00000
+C3005  C ? ?  0.11111  0.55556  0.50000
+C3006  C ? ?  0.77778  0.88889  0.50000
+C4    C ? ?  0.22222  0.44443  0.00000
+C4002  C ? ?  0.22222  0.44443  0.50000
+C4003  C ? ?  0.88888  0.77777  0.00000
+C4004  C ? ?  0.55555  0.11110  0.00000
+C4005  C ? ?  0.88888  0.77777  0.50000
+C4006  C ? ?  0.55555  0.11110  0.50000
+C5    C ? ?  0.00000  0.00000  0.75000
+C5002  C ? ?  0.66667  0.33333  0.75000
+C5003  C ? ?  0.33333  0.66667  0.75000

@@ -1,0 +1,42 @@
+data_generated_by_bilbao_crystallographic_server
+
+_cell_length_a                   4.323294 
+_cell_length_b                   4.323294 
+_cell_length_c                   22.472206 
+_cell_angle_alpha                90.000000 
+_cell_angle_beta                 90.000000 
+_cell_angle_gamma                120.000000        
+_symmetry_space_group_name_H-M   'P622' 
+_symmetry_Int_Tables_number      177 
+
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1    'x,y,z'
+2    '-y,x-y,z'
+3    '-x+y,-x,z'
+4    '-x,-y,z'
+5    'y,-x+y,z'
+6    'x-y,x,z'
+7    'y,x,-z'
+8    'x-y,-y,-z'
+9    '-x,-x+y,-z'
+10   '-y,-x,-z'
+11   '-x+y,y,-z'
+12   'x,x-y,-z'
+
+loop_
+_atom_site_label 
+_atom_site_type_symbol 
+_atom_site_symmetry_multiplicity 
+_atom_site_Wyckoff_symbol 
+_atom_site_fract_x 
+_atom_site_fract_y 
+_atom_site_fract_z 
+Li1  Li ? ?  0.00000  0.00000  0.33333
+Li1002 Li ? ?  0.00000  0.00000  0.50000
+Li1003 Li ? ?  0.00000  0.00000  0.83333
+Li1004 Li ? ?  0.00000  0.00000  0.00000
+C2    C ? ?  0.00000  0.33355  0.41667
+C2002  C ? ?  0.33355  0.00000  0.25000
+C2003  C ? ?  0.00000  0.33355  0.91667
