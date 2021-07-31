@@ -1,0 +1,50 @@
+data_generated_by_bilbao_crystallographic_server
+
+_cell_length_a                   2.780000 
+_cell_length_b                   2.780000 
+_cell_length_c                   51.900002 
+_cell_angle_alpha                90.000000 
+_cell_angle_beta                 90.000000 
+_cell_angle_gamma                120.000000        
+_symmetry_space_group_name_H-M   'P321' 
+_symmetry_Int_Tables_number      150 
+
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1    'x,y,z'
+2    '-y,x-y,z'
+3    '-x+y,-x,z'
+4    'y,x,-z'
+5    'x-y,-y,-z'
+6    '-x,-x+y,-z'
+
+loop_
+_atom_site_label 
+_atom_site_type_symbol 
+_atom_site_symmetry_multiplicity 
+_atom_site_Wyckoff_symbol 
+_atom_site_fract_x 
+_atom_site_fract_y 
+_atom_site_fract_z 
+Li1  Li ? ?  0.00000  0.00000  0.75000
+Li1002 Li ? ?  0.33333  0.66667  0.91667
+Li1003 Li ? ?  0.33333  0.66667  0.41667
+Co1  Co ? ?  0.00000  0.00000  0.96000
+Co1002 Co ? ?  0.00000  0.00000  0.54000
+Co1003 Co ? ?  0.33333  0.66667  0.12667
+Co1004 Co ? ?  0.33333  0.66667  0.70667
+Co1005 Co ? ?  0.33333  0.66667  0.62667
+Co1006 Co ? ?  0.33333  0.66667  0.20667
+O1    O ? ?  0.00000  0.00000  0.89500
+O1002  O ? ?  0.00000  0.00000  0.60500
+O1003  O ? ?  0.33333  0.66667  0.06167
+O1004  O ? ?  0.33333  0.66667  0.77167
+O1005  O ? ?  0.33333  0.66667  0.56167
+O1006  O ? ?  0.33333  0.66667  0.27167
+O2    O ? ?  0.00000  0.00000  0.81000
+O2002  O ? ?  0.00000  0.00000  0.69000
+O2003  O ? ?  0.33333  0.66667  0.97667
+O2004  O ? ?  0.33333  0.66667  0.85667
+O2005  O ? ?  0.33333  0.66667  0.47667
+O2006  O ? ?  0.33333  0.66667  0.35667
