@@ -1,0 +1,14 @@
+#!/bin/sh
+#BSUB -cwd.
+#BSUB -e %J.err
+#BSUB -o %J.out
+#BSUB -q priority
+#BSUB -n 16
+#BSUB -J wangda
+#BSUB -x
+ncpus=`cat $LSB_DJOB_HOSTFILE | wc -l ` 
+mpirun  -hostfile $LSB_DJOB_HOSTFILE  -np  ${ncpus}  /data/home/xclshisiqi/software/vasp5.3/VASP5/src/vasp.5.3/vasp
+
+#IMAGES=3,3*16, -n 48
+#IMAGES=5,5*16, -n 80
+#IMAGES=7,7*16, -n 112
