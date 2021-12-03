@@ -22,6 +22,7 @@ information of free energies, supercell size, Li concentration will be read from
 Formation energies of all ordered phase are calculated, Ordered ground states are obtained by convex hull.
 
 The detailed algorithm of gsop is describted the following article:
-(1)Ran, Y.; Zou, Z.; Liu, B.; Wang, D.; Pu, B.; Mi, P.; Shi, W.; Li, Y.; He, B.; Lu, Z.; Lu, X.; Li, B.; Shi, S. Towards Prediction of Ordered Phases in Rechargeable Battery Chemistry via Group–Subgroup Transformation. npj Comput Mater 2021, 7 (1), 1–11. https://doi.org/10.1038/s41524-021-00653-y.
+
+(1) Ran, Y.; Zou, Z.; Liu, B.; Wang, D.; Pu, B.; Mi, P.; Shi, W.; Li, Y.; He, B.; Lu, Z.; Lu, X.; Li, B.; Shi, S. Towards Prediction of Ordered Phases in Rechargeable Battery Chemistry via Group–Subgroup Transformation. npj Comput Mater 2021, 7 (1), 1–11. https://doi.org/10.1038/s41524-021-00653-y.
 
 If you use gsop in your research, please consider citing the article.
